@@ -1,0 +1,8 @@
+编译后的文件结构：
+├─build
+│  ├─index.bundle.js
+│  ├─index.css
+│  ├─index.html
+│  ├─main.bundle.js
+│  ├─main.css
+│  ├─main.html
